@@ -4,8 +4,7 @@ createApp({
     
     data() {
         return {
-            hello: '<h1>dormire è importante</h1>',
-           
+            hello: '<h1>dormire è importante</h1>'
         }
     }
 }).mount('#app');
